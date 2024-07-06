@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    background-color: rgb(255, 168, 124);
+    border-radius: 50px;
+    width: 500px;
+    /* Margin */
+    margin: auto;
+    margin-top: 25px;
+}
+h2{
+    text-align: center;
+}
+img{
+    /* h.border */
+    border:2px solid black;
+    /* border Shape */
+    border-radius: 25px;
+    width:220px;
+    height:220px;
+    margin-top: 15px;
+    margin:30px;
+    margin-left: 160px;
+}
